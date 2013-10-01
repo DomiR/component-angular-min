@@ -1,0 +1,17 @@
+{
+  "name": "angular-min",
+  "description": "Minified AngularJS wrapped as a component.",
+  "repo": "dqubes/angular-min",
+  "version": "1.2.1-rc2",
+  "keywords": [
+    "angular",
+    "angularjs",
+    "minified",
+    "component"
+  ],
+  "main": "angular.min.js",
+  "scripts": [
+    "angular.min.js"
+  ],
+  "license": "MIT"
+}
